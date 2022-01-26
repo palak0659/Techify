@@ -15,9 +15,12 @@ COURSE Page
 
 
 Filter the Course using Course Category: -
+
+
 ![image](https://user-images.githubusercontent.com/83232454/151225708-246d1b73-3821-4856-8094-6f31dd09de5e.png)
 
 ![image](https://user-images.githubusercontent.com/83232454/151225976-d728dbd1-e423-45e6-af58-99437afd813c.png)
+
 
 Buy And Give Feedback
 
