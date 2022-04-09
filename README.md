@@ -7,7 +7,6 @@ INTRODUCTION:
 “Techify” is a course website that includes all remarkable courses that are availaible on different website and platforms all over internet like udemy, coursera, coding ninja. This project is concerned with the analysis, design, development, implementation and evaluation of an e-learning management system to provide a user-friendly environment for prospective students to acquire knowledge at any educational level and to bridge the gap between teachers and students. It generates an environment where the youth can find ideal courses and can build their future. It will also provide information regarding free courses availaible in different fields of technology like Machine learning, Web development, Android Development, Cyber Security etc which will help them to judiciary use their time and money.
 
 FUNCTIONALITY
-
 1.	Login page: - Login page is common for both students and Instructors.
 ![image](https://user-images.githubusercontent.com/83232454/151224893-4adfc605-9a5f-4d65-a309-29a10ec718c3.png)
 ![image](https://user-images.githubusercontent.com/83232454/151225040-e8f5ea4d-7c9d-4acd-abe4-09ef55850432.png)
